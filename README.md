@@ -1,4 +1,4 @@
-# Sobia Zulfiqar — Portfolio
+# Portfolio
 
 Dark, minimal React site (Vite + React + TypeScript + Framer Motion).
 
